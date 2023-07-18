@@ -1,0 +1,5 @@
+A project with backend and frontend to login using passport with email and password and google signin leveraging mysql
+
+Backend: NodeJs
+FrontEnd: Html + Vuejs 
+
